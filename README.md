@@ -1,3 +1,3 @@
 # WatchTampopo
  Lerning GitHub.　おはようさん！！！
-## ゲゲゲの鬼太郎
+## ゲゲゲの鬼太郎コンチワ
