@@ -1,2 +1,3 @@
 # WatchTampopo
- Lerning GitHub.
+ Lerning GitHub.　おはようさん！！！
+ 
